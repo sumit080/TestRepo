@@ -24,7 +24,7 @@ provider "github" {
   token = "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"
 }
 
-resource "github_repository" "example" {
+resource "github_repository" "sumit080" {
   name        = "TESTREPO"
 
   visibility  = "private"
